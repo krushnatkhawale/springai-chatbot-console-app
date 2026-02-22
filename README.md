@@ -1,7 +1,5 @@
 # Spring AI Chatbot (Console)
 
-TL;DR
-
 A tiny Spring Boot console chatbot demonstrating the Spring AI chat client with two pluggable providers (Ollama for local/dev and OpenAI for production). Includes a minimal service layer, a console runner, and a unit test so you can run, extend, and test a conversational service quickly.
 
 ---
